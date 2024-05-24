@@ -16,7 +16,7 @@ QUEUE=count
 ## Install dependencies
 
 ```bash
-yarn
+yarn install
 ```
 
 ## Run database migration
